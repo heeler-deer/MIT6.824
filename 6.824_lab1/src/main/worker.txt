@@ -1,0 +1,245 @@
+2023/03/05 22:14:19 worker -1: initialized!
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 321 &{0x7f7d70936ea0 0x7f7d70937000 false false -1}
+2023/03/05 22:14:19 aaaaaaaaaaa {-1}
+2023/03/05 22:14:19 worker -1: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 worker 0: got map task on file [0 pg-being_ernest.txt] %!v(MISSING)
+2023/03/05 22:14:19 worker 0: writing map results to file
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 reply.Fileid: 0
+2023/03/05 22:14:19 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 321 &{0x7f7d70936ea0 0x7f7d70937000 false false 0}
+2023/03/05 22:14:19 aaaaaaaaaaa {0}
+2023/03/05 22:14:19 worker 0: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 worker 0: got map task on file [1 pg-dorian_gray.txt] %!v(MISSING)
+2023/03/05 22:14:19 worker 0: writing map results to file
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 reply.Fileid: 1
+2023/03/05 22:14:19 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 321 &{0x7f7d70936ea0 0x7f7d70937000 false false 0}
+2023/03/05 22:14:19 aaaaaaaaaaa {0}
+2023/03/05 22:14:19 worker 0: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 worker 0: got map task on file [2 pg-frankenstein.txt] %!v(MISSING)
+2023/03/05 22:14:19 worker 0: writing map results to file
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 reply.Fileid: 2
+2023/03/05 22:14:19 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 321 &{0x7f7d70936ea0 0x7f7d70937000 false false 0}
+2023/03/05 22:14:19 aaaaaaaaaaa {0}
+2023/03/05 22:14:19 worker 0: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:19 worker 0: got map task on file [3 pg-grimm.txt] %!v(MISSING)
+2023/03/05 22:14:20 worker 0: writing map results to file
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 reply.Fileid: 3
+2023/03/05 22:14:20 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 321 &{0x7f7d70936ea0 0x7f7d70937000 false false 0}
+2023/03/05 22:14:20 aaaaaaaaaaa {0}
+2023/03/05 22:14:20 worker 0: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 worker 0: got map task on file [4 pg-huckleberry_finn.txt] %!v(MISSING)
+2023/03/05 22:14:20 worker 0: writing map results to file
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 reply.Fileid: 4
+2023/03/05 22:14:20 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 321 &{0x7f7d70936ea0 0x7f7d70937000 false false 0}
+2023/03/05 22:14:20 aaaaaaaaaaa {0}
+2023/03/05 22:14:20 worker 0: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 worker 0: got map task on file [5 pg-metamorphosis.txt] %!v(MISSING)
+2023/03/05 22:14:20 worker 0: writing map results to file
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 reply.Fileid: 5
+2023/03/05 22:14:20 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 321 &{0x7f7d70936ea0 0x7f7d70937000 false false 0}
+2023/03/05 22:14:20 aaaaaaaaaaa {0}
+2023/03/05 22:14:20 worker 0: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 worker 0: got map task on file [6 pg-sherlock_holmes.txt] %!v(MISSING)
+2023/03/05 22:14:20 worker 0: writing map results to file
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 reply.Fileid: 6
+2023/03/05 22:14:20 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 321 &{0x7f7d70936ea0 0x7f7d70937000 false false 0}
+2023/03/05 22:14:20 aaaaaaaaaaa {0}
+2023/03/05 22:14:20 worker 0: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 worker 0: got map task on file [7 pg-tom_sawyer.txt] %!v(MISSING)
+2023/03/05 22:14:20 worker 0: writing map results to file
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 reply.Fileid: 7
+2023/03/05 22:14:20 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 321 &{0x7f7d70936ea0 0x7f7d70937000 false false 0}
+2023/03/05 22:14:20 aaaaaaaaaaa {0}
+2023/03/05 22:14:20 worker 0: requesting for map task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 worker 0: no more map tasks, switch to reduce mode
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 reply is nil
+2023/03/05 22:14:20 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 worker 0: got reduce task on [0]th cluster
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:20 worker 0: total intermediate count [43536]
+2023/03/05 22:14:20 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:20 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 worker 0: got reduce task on [1]th cluster
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:20 worker 0: total intermediate count [41126]
+2023/03/05 22:14:20 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:20 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:20 worker 0: got reduce task on [2]th cluster
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:20 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:21 worker 0: total intermediate count [94981]
+2023/03/05 22:14:21 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:21 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: got reduce task on [3]th cluster
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:21 worker 0: total intermediate count [41979]
+2023/03/05 22:14:21 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:21 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: got reduce task on [4]th cluster
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:21 worker 0: total intermediate count [60534]
+2023/03/05 22:14:21 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:21 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: got reduce task on [5]th cluster
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:21 worker 0: total intermediate count [39508]
+2023/03/05 22:14:21 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:21 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: got reduce task on [6]th cluster
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:21 worker 0: total intermediate count [105743]
+2023/03/05 22:14:21 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:21 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: got reduce task on [7]th cluster
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:21 worker 0: total intermediate count [57565]
+2023/03/05 22:14:21 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:21 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: got reduce task on [8]th cluster
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:21 worker 0: total intermediate count [79133]
+2023/03/05 22:14:21 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:21 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: got reduce task on [9]th cluster
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [0]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [1]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [2]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [3]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [4]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [5]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [6]
+2023/03/05 22:14:21 worker 0: generating intermediates on cluster [7]
+2023/03/05 22:14:21 worker 0: total intermediate count [59843]
+2023/03/05 22:14:21 worker 0: Accepted
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 321 &{0x7f7d70936ea0 0x7f7d70937000 true false 0}
+2023/03/05 22:14:21 worker 0: requesting for reduce task...
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: no more reduce tasks, try to terminate worker
+%!(EXTRA []interface {}=[])
+2023/03/05 22:14:21 worker 0: no more tasks, all Done, exiting...
+%!(EXTRA []interface {}=[])

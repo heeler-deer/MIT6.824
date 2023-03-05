@@ -1,0 +1,226 @@
+coordinator: 2023/03/05 22:14:12 making coordinator
+coordinator: 2023/03/05 22:14:12 FileName:  [pg-being_ernest.txt pg-dorian_gray.txt pg-frankenstein.txt pg-grimm.txt pg-huckleberry_finn.txt pg-metamorphosis.txt pg-sherlock_holmes.txt pg-tom_sawyer.txt]
+coordinator: 2023/03/05 22:14:12 listening started...
+coordinator: 2023/03/05 22:14:12 file count 8
+coordinator: 2023/03/05 22:14:12 sending 0th file map task to channel
+coordinator: 2023/03/05 22:14:12 sending 1th file map task to channel
+coordinator: 2023/03/05 22:14:12 sending 2th file map task to channel
+coordinator: 2023/03/05 22:14:12 sending 3th file map task to channel
+coordinator: 2023/03/05 22:14:12 sending 4th file map task to channel
+coordinator: 2023/03/05 22:14:12 sending 5th file map task to channel
+coordinator: 2023/03/05 22:14:12 sending 6th file map task to channel
+coordinator: 2023/03/05 22:14:12 sending 7th file map task to channel
+coordinator: 2023/03/05 22:14:12 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:13 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:14 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:14 removing timeout maptasks...
+coordinator: 2023/03/05 22:14:15 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:16 removing timeout maptasks...
+coordinator: 2023/03/05 22:14:16 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:17 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:18 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:18 removing timeout maptasks...
+coordinator: 2023/03/05 22:14:19 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:19 mp 0
+coordinator: 2023/03/05 22:14:19 bq 8
+coordinator: 2023/03/05 22:14:19 bq 8
+coordinator: 2023/03/05 22:14:19 mp 0
+coordinator: 2023/03/05 22:14:19 8 unissued map tasks AND 0 issued map tasks at hand
+coordinator: 2023/03/05 22:14:19 queue.go 112 data: 0
+coordinator: 2023/03/05 22:14:19 master_110 line fileId: 0
+coordinator: 2023/03/05 22:14:19 giving map task 0 on file pg-being_ernest.txt at second 1678025659
+coordinator: 2023/03/05 22:14:19 task is Accepting...
+coordinator: 2023/03/05 22:14:19 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:19 mp 0
+coordinator: 2023/03/05 22:14:19 bq 7
+coordinator: 2023/03/05 22:14:19 bq 7
+coordinator: 2023/03/05 22:14:19 mp 0
+coordinator: 2023/03/05 22:14:19 7 unissued map tasks AND 0 issued map tasks at hand
+coordinator: 2023/03/05 22:14:19 queue.go 112 data: 1
+coordinator: 2023/03/05 22:14:19 master_110 line fileId: 1
+coordinator: 2023/03/05 22:14:19 giving map task 1 on file pg-dorian_gray.txt at second 1678025659
+coordinator: 2023/03/05 22:14:19 task is Accepting...
+coordinator: 2023/03/05 22:14:19 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:19 mp 0
+coordinator: 2023/03/05 22:14:19 bq 6
+coordinator: 2023/03/05 22:14:19 bq 6
+coordinator: 2023/03/05 22:14:19 mp 0
+coordinator: 2023/03/05 22:14:19 6 unissued map tasks AND 0 issued map tasks at hand
+coordinator: 2023/03/05 22:14:19 queue.go 112 data: 2
+coordinator: 2023/03/05 22:14:19 master_110 line fileId: 2
+coordinator: 2023/03/05 22:14:19 giving map task 2 on file pg-frankenstein.txt at second 1678025659
+coordinator: 2023/03/05 22:14:19 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:19 task is Accepting...
+coordinator: 2023/03/05 22:14:19 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:19 mp 0
+coordinator: 2023/03/05 22:14:19 bq 5
+coordinator: 2023/03/05 22:14:19 bq 5
+coordinator: 2023/03/05 22:14:19 mp 0
+coordinator: 2023/03/05 22:14:19 5 unissued map tasks AND 0 issued map tasks at hand
+coordinator: 2023/03/05 22:14:19 queue.go 112 data: 3
+coordinator: 2023/03/05 22:14:19 master_110 line fileId: 3
+coordinator: 2023/03/05 22:14:19 giving map task 3 on file pg-grimm.txt at second 1678025659
+coordinator: 2023/03/05 22:14:20 task is Accepting...
+coordinator: 2023/03/05 22:14:20 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 bq 4
+coordinator: 2023/03/05 22:14:20 bq 4
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 4 unissued map tasks AND 0 issued map tasks at hand
+coordinator: 2023/03/05 22:14:20 queue.go 112 data: 4
+coordinator: 2023/03/05 22:14:20 master_110 line fileId: 4
+coordinator: 2023/03/05 22:14:20 giving map task 4 on file pg-huckleberry_finn.txt at second 1678025660
+coordinator: 2023/03/05 22:14:20 task is Accepting...
+coordinator: 2023/03/05 22:14:20 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 bq 3
+coordinator: 2023/03/05 22:14:20 bq 3
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 3 unissued map tasks AND 0 issued map tasks at hand
+coordinator: 2023/03/05 22:14:20 queue.go 112 data: 5
+coordinator: 2023/03/05 22:14:20 master_110 line fileId: 5
+coordinator: 2023/03/05 22:14:20 giving map task 5 on file pg-metamorphosis.txt at second 1678025660
+coordinator: 2023/03/05 22:14:20 task is Accepting...
+coordinator: 2023/03/05 22:14:20 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 bq 2
+coordinator: 2023/03/05 22:14:20 bq 2
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 2 unissued map tasks AND 0 issued map tasks at hand
+coordinator: 2023/03/05 22:14:20 queue.go 112 data: 6
+coordinator: 2023/03/05 22:14:20 master_110 line fileId: 6
+coordinator: 2023/03/05 22:14:20 giving map task 6 on file pg-sherlock_holmes.txt at second 1678025660
+coordinator: 2023/03/05 22:14:20 task is Accepting...
+coordinator: 2023/03/05 22:14:20 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 bq 1
+coordinator: 2023/03/05 22:14:20 bq 1
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 1 unissued map tasks AND 0 issued map tasks at hand
+coordinator: 2023/03/05 22:14:20 queue.go 112 data: 7
+coordinator: 2023/03/05 22:14:20 master_110 line fileId: 7
+coordinator: 2023/03/05 22:14:20 giving map task 7 on file pg-tom_sawyer.txt at second 1678025660
+coordinator: 2023/03/05 22:14:20 task is Accepting...
+coordinator: 2023/03/05 22:14:20 worker 0 asks for a map task
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 bq 0
+coordinator: 2023/03/05 22:14:20 all map tasks Done,do reduce tasks
+coordinator: 2023/03/05 22:14:20 preparereducetasks
+coordinator: 2023/03/05 22:14:20 Adding 0th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 1th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 2th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 3th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 4th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 5th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 6th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 7th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 8th reduce task into channel
+coordinator: 2023/03/05 22:14:20 Adding 9th reduce task into channel
+coordinator: 2023/03/05 22:14:20 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:20 bq 10
+coordinator: 2023/03/05 22:14:20 bq 10
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 10 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:20 queue.go 112 data: 0
+coordinator: 2023/03/05 22:14:20 giving reduce task 0 at second 1678025660
+coordinator: 2023/03/05 22:14:20 filecnt: 8
+coordinator: 2023/03/05 22:14:20 removing timeout maptasks...
+coordinator: 2023/03/05 22:14:20 asked whether i am Done, replying no...
+coordinator: 2023/03/05 22:14:20 got join request from worker 0 on reduce task 0
+coordinator: 2023/03/05 22:14:20 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:20 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:20 bq 9
+coordinator: 2023/03/05 22:14:20 bq 9
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 9 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:20 queue.go 112 data: 1
+coordinator: 2023/03/05 22:14:20 giving reduce task 1 at second 1678025660
+coordinator: 2023/03/05 22:14:20 filecnt: 8
+coordinator: 2023/03/05 22:14:20 got join request from worker 0 on reduce task 1
+coordinator: 2023/03/05 22:14:20 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:20 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:20 bq 8
+coordinator: 2023/03/05 22:14:20 bq 8
+coordinator: 2023/03/05 22:14:20 mp 0
+coordinator: 2023/03/05 22:14:20 8 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:20 queue.go 112 data: 2
+coordinator: 2023/03/05 22:14:20 giving reduce task 2 at second 1678025660
+coordinator: 2023/03/05 22:14:20 filecnt: 8
+coordinator: 2023/03/05 22:14:21 got join request from worker 0 on reduce task 2
+coordinator: 2023/03/05 22:14:21 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:21 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:21 bq 7
+coordinator: 2023/03/05 22:14:21 bq 7
+coordinator: 2023/03/05 22:14:21 mp 0
+coordinator: 2023/03/05 22:14:21 7 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:21 queue.go 112 data: 3
+coordinator: 2023/03/05 22:14:21 giving reduce task 3 at second 1678025661
+coordinator: 2023/03/05 22:14:21 filecnt: 8
+coordinator: 2023/03/05 22:14:21 got join request from worker 0 on reduce task 3
+coordinator: 2023/03/05 22:14:21 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:21 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:21 bq 6
+coordinator: 2023/03/05 22:14:21 bq 6
+coordinator: 2023/03/05 22:14:21 mp 0
+coordinator: 2023/03/05 22:14:21 6 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:21 queue.go 112 data: 4
+coordinator: 2023/03/05 22:14:21 giving reduce task 4 at second 1678025661
+coordinator: 2023/03/05 22:14:21 filecnt: 8
+coordinator: 2023/03/05 22:14:21 got join request from worker 0 on reduce task 4
+coordinator: 2023/03/05 22:14:21 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:21 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:21 bq 5
+coordinator: 2023/03/05 22:14:21 bq 5
+coordinator: 2023/03/05 22:14:21 mp 0
+coordinator: 2023/03/05 22:14:21 5 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:21 queue.go 112 data: 5
+coordinator: 2023/03/05 22:14:21 giving reduce task 5 at second 1678025661
+coordinator: 2023/03/05 22:14:21 filecnt: 8
+coordinator: 2023/03/05 22:14:21 got join request from worker 0 on reduce task 5
+coordinator: 2023/03/05 22:14:21 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:21 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:21 bq 4
+coordinator: 2023/03/05 22:14:21 bq 4
+coordinator: 2023/03/05 22:14:21 mp 0
+coordinator: 2023/03/05 22:14:21 4 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:21 queue.go 112 data: 6
+coordinator: 2023/03/05 22:14:21 giving reduce task 6 at second 1678025661
+coordinator: 2023/03/05 22:14:21 filecnt: 8
+coordinator: 2023/03/05 22:14:21 got join request from worker 0 on reduce task 6
+coordinator: 2023/03/05 22:14:21 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:21 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:21 bq 3
+coordinator: 2023/03/05 22:14:21 bq 3
+coordinator: 2023/03/05 22:14:21 mp 0
+coordinator: 2023/03/05 22:14:21 3 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:21 queue.go 112 data: 7
+coordinator: 2023/03/05 22:14:21 giving reduce task 7 at second 1678025661
+coordinator: 2023/03/05 22:14:21 filecnt: 8
+coordinator: 2023/03/05 22:14:21 got join request from worker 0 on reduce task 7
+coordinator: 2023/03/05 22:14:21 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:21 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:21 bq 2
+coordinator: 2023/03/05 22:14:21 bq 2
+coordinator: 2023/03/05 22:14:21 mp 0
+coordinator: 2023/03/05 22:14:21 2 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:21 queue.go 112 data: 8
+coordinator: 2023/03/05 22:14:21 giving reduce task 8 at second 1678025661
+coordinator: 2023/03/05 22:14:21 filecnt: 8
+coordinator: 2023/03/05 22:14:21 got join request from worker 0 on reduce task 8
+coordinator: 2023/03/05 22:14:21 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:21 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:21 bq 1
+coordinator: 2023/03/05 22:14:21 bq 1
+coordinator: 2023/03/05 22:14:21 mp 0
+coordinator: 2023/03/05 22:14:21 1 unissued reduce tasks 0 issued reduce tasks at hand
+coordinator: 2023/03/05 22:14:21 queue.go 112 data: 9
+coordinator: 2023/03/05 22:14:21 giving reduce task 9 at second 1678025661
+coordinator: 2023/03/05 22:14:21 filecnt: 8
+coordinator: 2023/03/05 22:14:21 got join request from worker 0 on reduce task 9
+coordinator: 2023/03/05 22:14:21 task within max wait time, Accepting...
+coordinator: 2023/03/05 22:14:21 worker 0 asking for a reduce task
+coordinator: 2023/03/05 22:14:21 bq 0
+coordinator: 2023/03/05 22:14:21 mp 0
+coordinator: 2023/03/05 22:14:21 reduce task finished
+coordinator: 2023/03/05 22:14:21 asked whether i am Done, replying yes...
+coordinator: 2023/03/05 22:14:22 removing timeout maptasks...
